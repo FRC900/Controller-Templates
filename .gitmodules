@@ -1,6 +1,4 @@
-[submodule "Team900-VIs"]
-	path = Team900-VIs
-	url = https://github.com/FRC900/Team900-VIs
+
 [submodule "Support Code/Team900-VIs"]
 	path = Support Code/Team900-VIs
 	url = https://github.com/FRC900/Team900-VIs
